@@ -1,6 +1,6 @@
 #include <iostream>
-#include <queue>
 #include <string>
+#include <vector>
 #include <algorithm>
 
 #include <sys/types.h>
